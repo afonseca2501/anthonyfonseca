@@ -1,0 +1,14 @@
+#bg { width: 500px;
+    height: 500px;
+    margin-top: 70px;
+    background-color:greenyellow;
+    background-image: url("links/vegeta-god-coso_1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+p {
+    text-align: center;
+    text-decoration-color: aliceblue;
+    padding: 10px;
+}
